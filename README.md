@@ -35,7 +35,5 @@ plugins: [
 3、source-map修改
 3.1、config/index.js，dev环境使用eval（最快速度），prod环境关闭
 
-
-# build for production and view the bundle analyzer report
 npm run build --report
 
