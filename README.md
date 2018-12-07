@@ -1,7 +1,7 @@
 #page-upserver
 [![Build Status](https://travis-ci.com/cheneyweb/page-upserver.svg?branch=master)](https://travis-ci.com/cheneyweb/page-upserver)
 
-> 构建优化
+##构建优化
 1、启用DllPlugin和DllReferencePlugin预编译库文件
 1.1、build文件夹下增加webpack.dll.config.js文件，并在其中配置需要单独DLL化的模块
 
