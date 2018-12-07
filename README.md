@@ -1,4 +1,5 @@
-#upserver前端
+#page-upserver
+[![Build Status](https://travis-ci.com/cheneyweb/page-upserver.svg?branch=master)](https://travis-ci.com/cheneyweb/page-upserver)
 
 > 构建优化
 1、启用DllPlugin和DllReferencePlugin预编译库文件
